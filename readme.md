@@ -10,9 +10,9 @@
 
 Path | Description
 ---- | -----------
-/LICENSE | License
-/README.md | ReadMe
-/hello-world.txt | **Hello, world!** examples in different programming languages.
+[License](license) | License
+[ReadMe](readme.md) | ReadMe
+[hello-word.md](hello-world.md) | **Hello, world!** examples in different programming languages.
 
 ## License
 
