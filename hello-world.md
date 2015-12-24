@@ -2,7 +2,7 @@
 
 **Hello, world!** examples in different coding environments.
 
-## Code Example
+## Code
 
 Basic
 
