@@ -1,0 +1,121 @@
+## Description
+
+**Hello, world!** examples in different coding environments.
+
+## Code Example
+
+Basic
+
+```
+PRINT "Hello, world!"
+```
+
+C
+
+```
+printf( "Hello, world!" );
+```
+
+C#
+
+```
+Response.Write( "Hello, world!" );
+```
+
+C++
+
+```
+std::cout << "Hello, world!";
+```
+
+CSS 3
+
+```
+body::after {
+    content: "Hello, world!";
+}
+```
+
+Go 1.5
+
+```
+fmt.Print( "Hello, world!" )
+```
+
+HTML5
+
+```
+Hello, world!
+```
+
+Java 8
+
+```
+System.out.print( "Hello, world!" );
+```
+
+JavaScript 1.8.5
+
+```
+document.write( "Hello, world!" );
+```
+
+jQuery 2.1.4
+
+```
+$( document.body ).append( "Hello, world!" );
+```
+
+JScript
+
+```
+document.write( "Hello, world!" );
+```
+
+Perl 5.22.1
+
+```
+print "Hello, world!";
+```
+
+PHP 7.0.1
+
+```
+print( "Hello, world!" );
+```
+
+Python 3.4.3
+
+```
+print( "Hello, world!" )
+```
+
+QBasic
+
+```
+PRINT "Hello, world!"
+```
+
+Ruby 2.2.4
+
+```
+puts "Hello World"
+```
+
+Sawzall 1.0
+
+```
+emit stdout <- "Hello World!";
+```
+
+Swift 2.2
+
+```
+print( "Hello, world!" )
+```
+
+Visual Basic .Net (VB.NET)
+
+```
+Response.Write( "Hello, world!" )
+```
