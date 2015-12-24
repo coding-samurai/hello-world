@@ -46,6 +46,12 @@ Go 1.5
 fmt.Print( "Hello, world!" )
 ```
 
+Hack
+
+```
+print( "Hello, world!" );
+```
+
 HTML5
 
 ```
