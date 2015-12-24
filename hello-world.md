@@ -118,6 +118,12 @@ Swift 2.2
 print( "Hello, world!" )
 ```
 
+Visual Basic
+
+```
+Form1.Print "Hello, world!"
+```
+
 Visual Basic .Net (VB.NET)
 
 ```
