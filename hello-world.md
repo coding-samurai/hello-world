@@ -103,13 +103,13 @@ PRINT "Hello, world!"
 Ruby 2.2.4
 
 ```
-puts "Hello World"
+puts "Hello, world!"
 ```
 
 Sawzall 1.0
 
 ```
-emit stdout <- "Hello World!";
+emit stdout <- "Hello, world!";
 ```
 
 Swift 2.2
