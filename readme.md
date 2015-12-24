@@ -18,5 +18,5 @@ Path | Description
 
 Item | License | URL
 ---- | ------- | ---
-hello-world | The MIT License (MIT) | [GitHub](https://github.com/coding-samurai/hello-world/blob/master/LICENSE)
+hello-world | The MIT License (MIT) | [License](license)
 /graphics/iconarchive.com/ | GNU General Public License | [IconArchive](http://www.iconarchive.com/artist/elegantthemes.html)
