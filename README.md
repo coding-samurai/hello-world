@@ -1,8 +1,6 @@
 ## hello-word
 
-```
 ![hello-world Logo](graphics/iconarchive.com/globe-icon.png)
-```
 
 ## Description
 
