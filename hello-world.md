@@ -49,7 +49,7 @@ fmt.Print( "Hello, world!" )
 HTML5
 
 ```
-Hello, world!
+<p>Hello, world!</p>
 ```
 
 Java 8
