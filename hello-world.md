@@ -118,6 +118,12 @@ Swift 2.2
 print( "Hello, world!" )
 ```
 
+VBScript
+
+```
+document.write( "Hello, world!" )
+```
+
 Visual Basic
 
 ```
