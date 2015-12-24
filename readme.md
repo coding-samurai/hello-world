@@ -12,7 +12,7 @@ readme.md
 
 ## Files
 
-Path | Description
+File | Description
 ---- | -----------
 [license](license) | License
 [readme.md](readme.md) | ReadMe
