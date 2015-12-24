@@ -127,7 +127,13 @@ document.write( "Hello, world!" )
 Visual Basic (VB)
 
 ```
-Form1.Print "Hello, world!"
+Debug.Print "Hello, world!"
+```
+
+Visual Basic for Applications (VBA)
+
+```
+Debug.Print "Hello, world!"
 ```
 
 Visual Basic .Net (VB.NET)
