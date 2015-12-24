@@ -4,7 +4,7 @@ hello-world.md
 
 ## Description
 
-**Hello, world!** examples in different coding environments.
+**Hello, world!** examples in different programming languages.
 
 ## Code
 
