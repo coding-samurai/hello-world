@@ -124,7 +124,7 @@ VBScript
 document.write( "Hello, world!" )
 ```
 
-Visual Basic
+Visual Basic (VB)
 
 ```
 Form1.Print "Hello, world!"
