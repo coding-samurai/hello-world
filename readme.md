@@ -23,4 +23,4 @@ Path | Description
 Item | License | URL
 ---- | ------- | ---
 hello-world | The MIT License (MIT) | [license](license)
-/graphics/iconarchive.com/ | GNU General Public License | [IconArchive](http://www.iconarchive.com/artist/elegantthemes.html)
+graphics/iconarchive.com/ | GNU General Public License | [IconArchive](http://www.iconarchive.com/artist/elegantthemes.html)
