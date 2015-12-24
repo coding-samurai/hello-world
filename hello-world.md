@@ -130,14 +130,14 @@ Visual Basic (VB)
 Debug.Print "Hello, world!"
 ```
 
-Visual Basic for Applications (VBA)
-
-```
-Debug.Print "Hello, world!"
-```
-
 Visual Basic .Net (VB.NET)
 
 ```
 Response.Write( "Hello, world!" )
+```
+
+Visual Basic for Applications (VBA)
+
+```
+Debug.Print "Hello, world!"
 ```
