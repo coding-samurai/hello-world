@@ -20,7 +20,4 @@ File | Description
 
 ## License
 
-Item | License | URL
----- | ------- | ---
-hello-world | The MIT License (MIT) | [license](license)
-graphics/iconarchive.com/ | GNU General Public License | [IconArchive / Elegantthemes](http://www.iconarchive.com/artist/elegantthemes.html)
+The MIT License (MIT)
