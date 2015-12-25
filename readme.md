@@ -12,6 +12,18 @@ readme.md
 
 ## Files
 
+```
+/
+├─── dist/
+     ├─── hello-world.md
+├─── graphics/
+     ├─── iconarchive.com/
+          ├─── globe-icon.png
+├─── license
+├─── proj.json
+├─── readme.md
+```
+
 File | Description
 ---- | -----------
 [readme.md](readme.md) | ReadMe
