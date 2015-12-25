@@ -14,8 +14,9 @@ readme.md
 
 File | Description
 ---- | -----------
-[license](license) | License
 [readme.md](readme.md) | ReadMe
+[license](license) | License
+[proj.json](proj.json) | Project description in JSON.
 [hello-word.md](hello-world.md) | **Hello, world!** examples in different programming languages.
 
 ## License
