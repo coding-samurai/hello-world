@@ -35,4 +35,7 @@ File | Description
 
 ## License
 
-[The MIT License (MIT)](license)
+Item | License
+---- | -------
+hello-world | [The MIT License (MIT)](license)
+graphics/iconarchive.com/ | [GNU General Public License](http://www.iconarchive.com/artist/elegantthemes.html)
