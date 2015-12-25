@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello, world! examples in different programming languages.",
+  "author": "coding-samurai",
+  "url": "https://github.com/coding-samurai/hello-world",
+  "license": "The MIT License (MIT)",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coding-samurai/hello-world.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/coding-samurai/hello-world/issues"
+  }
+}
