@@ -16,13 +16,11 @@ readme.md
 /
 ├── dist/
 │   └── hello-world.md
-├── graphics/
-│   └── iconarchive.com/
-│       └── globe-icon.png
 ├── license
 ├── license-3rd-parties
 ├── proj.json
 └── readme.md
+...
 ```
 
 File | Description
