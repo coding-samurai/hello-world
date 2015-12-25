@@ -30,7 +30,7 @@ File | Description
 [readme.md](readme.md) | ReadMe
 [license](license) | Licenses
 [license-3rd-parties](license-3rd-parties) | 3rd Party Licenses
-[proj.json](proj.json) | Project description in JSON.
+[proj.json](proj.json) | Project information in JSON.
 [dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
 ## Licenses
