@@ -14,13 +14,13 @@ readme.md
 
 ```
 /
+├── ...
 ├── dist/
 │   └── hello-world.md
 ├── license
 ├── license-3rd-parties
 ├── project.json
-├── readme.md
-└── ...
+└── readme.md
 ```
 
 File | Description
