@@ -7,7 +7,7 @@
     "license": "The MIT License (MIT)",
 
     "repository": {
-    "   type": "git",
+        "type": "git",
         "url": "https://github.com/coding-samurai/hello-world.git"
     },
     "bugs": {
