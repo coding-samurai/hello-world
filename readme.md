@@ -17,7 +17,7 @@ File | Description
 [readme.md](readme.md) | ReadMe
 [license](license) | License
 [proj.json](proj.json) | Project description in JSON.
-[dist/hello-word.md](dist/hello-word.md) | **Hello, world!** examples in different programming languages.
+[dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
 ## License
 
