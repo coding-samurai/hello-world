@@ -38,4 +38,4 @@ File | Description
 Item | License
 ---- | -------
 hello-world | [The MIT License (MIT)](license)
-graphics/iconarchive.com/ | [GNU General Public License](http://www.iconarchive.com/artist/elegantthemes.html)
+graphics/iconarchive.com/ | [GNU General Public License](license-3rd-parties)
