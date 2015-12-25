@@ -18,7 +18,7 @@ readme.md
 │   └── hello-world.md
 ├── license
 ├── license-3rd-parties
-├── proj.json
+├── project.json
 ├── readme.md
 └── ...
 ```
@@ -28,7 +28,7 @@ File | Description
 [readme.md](readme.md) | ReadMe
 [license](license) | Licenses
 [license-3rd-parties](license-3rd-parties) | 3rd Party Licenses
-[proj.json](proj.json) | Project information in JSON.
+[project.json](project.json) | Project information in JSON.
 [dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
 ## Licenses
