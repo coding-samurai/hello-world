@@ -33,7 +33,7 @@ File | Description
 [proj.json](proj.json) | Project description in JSON.
 [dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
-## License
+## Licenses
 
 Item | License
 ---- | -------
