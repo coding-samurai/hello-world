@@ -15,10 +15,10 @@ readme.md
 ```
 /
 ├── dist/
-├   ├── hello-world.md
+│   ├── hello-world.md
 ├── graphics/
-├   ├── iconarchive.com/
-├       ├── globe-icon.png
+│   ├── iconarchive.com/
+│       ├── globe-icon.png
 ├── license
 ├── proj.json
 ├── readme.md
