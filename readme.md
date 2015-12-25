@@ -19,8 +19,8 @@ readme.md
 ├── license
 ├── license-3rd-parties
 ├── proj.json
-└── readme.md
-...
+├── readme.md
+└── ...
 ```
 
 File | Description
