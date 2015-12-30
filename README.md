@@ -25,7 +25,7 @@ readme.md
 
 File | Description
 ---- | -----------
-[readme.md](readme.md) | ReadMe
+[README.md](README.md) | README
 [license](license) | Licenses
 [license-3rd-parties](license-3rd-parties) | 3rd Party Licenses
 [project.json](project.json) | Project information in JSON.
