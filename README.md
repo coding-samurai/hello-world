@@ -26,8 +26,8 @@ README.md
 File | Description
 ---- | -----------
 [README.md](README.md) | README
-[LICENSE](LICENSE) | LICENSE
-[LICENSE-3rd-parties](LICENSE-3rd-parties) | LICENSE - 3rd Parties
+[LICENSE](LICENSE) | Licenses
+[LICENSE-3rd-parties](LICENSE-3rd-parties) | 3rd party licenses
 [project.json](project.json) | Project information in JSON.
 [dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
