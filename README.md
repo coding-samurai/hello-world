@@ -35,5 +35,5 @@ File | Description
 
 Item | License
 ---- | -------
-hello-world | [The MIT License (MIT)](LICENSE)
+project | [The MIT License (MIT)](LICENSE)
 graphics/iconarchive.com/ | [GNU General Public License](LICENSE-3rd-parties)
