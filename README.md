@@ -17,7 +17,7 @@ README.md
 ├── ...
 ├── dist/
 │   └── hello-world.md
-├── license
+├── LICENSE
 ├── license-3rd-parties
 ├── project.json
 └── README.md
@@ -26,8 +26,8 @@ README.md
 File | Description
 ---- | -----------
 [README.md](README.md) | README
-[license](license) | Licenses
-[license-3rd-parties](license-3rd-parties) | 3rd Party Licenses
+[LICENSE](LICENSE) | Licenses
+[LICENSE-3rd-parties](LICENSE-3rd-parties) | 3rd Party Licenses
 [project.json](project.json) | Project information in JSON.
 [dist/hello-world.md](dist/hello-world.md) | **Hello, world!** examples in different programming languages.
 
@@ -35,5 +35,5 @@ File | Description
 
 Item | License
 ---- | -------
-hello-world | [The MIT License (MIT)](license)
-graphics/iconarchive.com/ | [GNU General Public License](license-3rd-parties)
+hello-world | [The MIT License (MIT)](LICENSE)
+graphics/iconarchive.com/ | [GNU General Public License](LICENSE-3rd-parties)
