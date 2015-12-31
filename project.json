@@ -4,7 +4,18 @@
     "description": "Hello, world! examples in different programming languages.",
     "author": "coding-samurai",
     "url": "https://github.com/coding-samurai/hello-world",
-    "license": "The MIT License (MIT)",
+    "license": [
+        {
+            "item": "project",
+            "type": "The MIT License (MIT)",
+            "url": "https://github.com/coding-samurai/hello-world/blob/master/LICENSE"
+        },
+        {
+            "item": "graphics/iconarchive.com/",
+            "type": "GNU General Public License",
+            "url": "https://github.com/coding-samurai/hello-world/blob/master/LICENSE-3rd-parties"
+        }
+    ],
 
     "repository": {
         "type": "git",
