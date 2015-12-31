@@ -1,6 +1,6 @@
-# ReadMe
+# README
 
-readme.md
+README.md
 
 ## hello-word
 
@@ -20,7 +20,7 @@ readme.md
 ├── license
 ├── license-3rd-parties
 ├── project.json
-└── readme.md
+└── README.md
 ```
 
 File | Description
