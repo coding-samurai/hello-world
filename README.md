@@ -18,7 +18,7 @@ README.md
 ├── dist/
 │   └── hello-world.md
 ├── LICENSE
-├── license-3rd-parties
+├── LICENSE-3rd-parties
 ├── project.json
 └── README.md
 ```
